@@ -14,4 +14,4 @@ Natural Language Processing course project
 - On a NVidia Titan X GPU the training took about 10 minutes. 
 
 ## Details 
-If you want to know more details about the project and the tests, have a look at the report here. 
+If you want to know more details about the project and the tests, have a look at the report [here](https://github.com/ggraffieti/Dating-Italian-Documents/blob/main/NLP_project_report_Graffieti.pdf). 
